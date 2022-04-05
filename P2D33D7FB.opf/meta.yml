@@ -1,0 +1,35 @@
+id: P2D33D7FB
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA22279
+  instance_id: http://purl.bdrc.io/resource/IE1KG11909
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དབུ་མ་ལ་འཇུག་པའི་རྣམ་བཤད་དཔལ་ལྡན་དུས་གསུམ་མཁྱེན་པའི་ཞལ་ལུང་།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P385
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1fe276bcac184c99b3da50910a0d091f:
+      title: ༄༅།་།དབུ་མ་ལ་འཇུག་པའི་རྣམ་བཤད་དཔལ་ལྡན་དུས་གསུམ་མཁྱེན་པའི་ཞལ་ལུང་དྭགས་བརྒྱུད་གྲུབ་པའི་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།་།༄༅།་།ཨོཾ་སྭསྟ
+      volume_number: 1
+      base_file: UT1KG11909_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL1C3A3199A598AC02
+      image_group: null
+      quality: null
+    c9e1b57637054c75933793b7184d14a4:
+      title: གང་ཟག་གི་བདག་མེད་བཤད་པ།
+      volume_number: 2
+      base_file: UT1KG11909_002_0001.txt
+      reference: http://purl.bdrc.io/resource/VLFD24815BE254F22D
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG11909
+  - http://purl.bdrc.io/resource/MW1KG11909
+created_at: '2021-12-22T10:31:47.029843'
+last_modified_at: '2021-12-22T10:31:47.029850'
